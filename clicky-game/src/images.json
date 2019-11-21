@@ -1,61 +1,61 @@
 [{
     "id": 1,
-    "image": "./public/images/alligator.jpg",
+    "image": "./images/alligator.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "./public/images/camel.jpg",
+    "image": "./images/camel.jpg",
     "clicked": false
 },
 {
     "id": 3,
-    "image": "./public/images/dog.jpg",
+    "image": "./images/dog.jpg",
     "clicked": false
 },
 {
     "id": 4,
-    "image": "./public/images/fox.jpg",
+    "image": "./images/fox.jpg",
     "clicked": false
 },
 {
     "id": 5,
-    "image": "./public/images/horse.jpg",
+    "image": "./images/horse.jpg",
     "clicked": false
 },
 {
     "id": 6,
-    "image": "./public/images/monkey.jpg",
+    "image": "./images/monkey.jpg",
     "clicked": false
 },
 {
     "id": 7,
-    "image": "./public/images/moose.jpg",
+    "image": "./images/moose.jpg",
     "clicked": false
 },
 {
     "id": 8,
-    "image": "./public/images/pig.jpg",
+    "image": "./images/pig.jpg",
     "clicked": false
 },
 {
     "id": 9,
-    "image": "./public/images/racoon.jpg",
+    "image": "./images/racoon.jpg",
     "clicked": false
 },
 {
     "id": 10,
-    "image": "./public/images/snake.jpg",
+    "image": "./images/snake.jpg",
     "clicked": false
 },
 {
     "id": 11,
-    "image": "./public/images/squirrel.jpg",
+    "image": "./images/squirrel.jpg",
     "clicked": false
 },
 {
     "id": 12,
-    "image": "./public/images/tiger.jpg",
+    "image": "./images/tiger.jpg",
     "clicked": false
 }
 ]

@@ -1,0 +1,15 @@
+.pics{
+    float:left;
+    width: 20%;
+    height: 250px;
+    padding: 10px; 
+    overflow:auto;
+    object-fit:cover;
+    object-position:center;
+    
+}
+
+.body{
+    width:1000px;
+    margin-left:7%;
+}
